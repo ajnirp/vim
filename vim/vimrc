@@ -1,0 +1,6 @@
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+set encoding=utf-8
+
+let mapleader = "\<Space>"
