@@ -1,2 +1,1 @@
-# vim
-vim config
+https://danielmiessler.com/study/vim/
